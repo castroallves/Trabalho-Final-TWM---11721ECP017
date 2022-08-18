@@ -1,0 +1,117 @@
+
+
+.client_default {
+    margin-top: 50px;
+    margin-left: 100px
+}
+
+.page_default{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+
+#maintitle {
+    margin-top: 0px;
+    font-style: italic;
+    font-size-adjust: calc();
+    width: 12.5%;
+    border-radius: 5px;
+    color: aliceblue;
+    margin: 10px;
+    margin-left: 100px;
+    background-color: #289adb;
+    
+}
+
+#panelscard {
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 80%;
+    border-radius: 10px;
+    color: aliceblue;
+
+}
+
+#btpedido {
+    margin-left: 92.6%;
+
+}
+
+.form {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+
+
+/* .homepage {
+    background-image: url(bkg.jpg);
+    background-repeat:no-repeat;
+    opacity: 50%;
+    margin-top: 5%;
+    margin-left: 20%;
+    height: 400%;
+    width: 400%;
+    font-family: Helvetica;
+    font-size: 100px;
+    border-radius: 10px;
+} */
+
+.homepage {
+    position: relative; 
+    margin-top: 0%;
+    height: 200vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.homepage::before {    
+      content: "";
+      background-repeat: no-repeat;
+      background-size: contain;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.5}
+
+
+      .home_title {
+        position:relative;
+        color: #000000;  
+        font-size: 7rem;
+        line-height: 0.9;
+        text-shadow: 3px 0px #1a1a1a;
+        text-align: center;
+      }
+
+.servicelist{
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.homecarousel{
+    size: contain;
+    justify-content: center;
+ 
+}
+
+.krs{
+
+    justify-content: center;
+    margin-top: 2%;
+    margin-left: 24%;
+    width: 50%;
+}
+
+
+
+

@@ -1,0 +1,87 @@
+{
+  "clientes": [
+    {
+      "id": 0,
+      "nome": "Pedro",
+      "sobrenome": "Alves",
+      "email": "pedropaulocca@gmail.com",
+      "senha": "1234",
+      "cpf": "123456789",
+      "cep": "38.400-902,",
+      "rua": "Av. João Naves de Ávila, nº 2121",
+      "cidade": "Uberlândia"
+    },
+    {
+      "id": 1,
+      "nome": "Mairon",
+      "sobrenome": "Marks",
+      "email": "mairon@gmail.com",
+      "senha": "1234",
+      "cpf": "123456789",
+      "cep": "38.400-902,",
+      "rua": "Av. João Naves de Ávila, nº 2121",
+      "cidade": "São Vicente"
+    },
+    {
+      "clienteNome": "Pedro",
+      "clienteSbnm": "Castro",
+      "clienteEmail": "pedropaulo@gmail.com",
+      "clienteSenha": "sss",
+      "clienteCPF": "123.213.131-31",
+      "clienteCEP": "38408-100",
+      "clienteRua": "Avenida João Naves de Ávila",
+      "clienteCidade": "Uberlândia",
+      "id": 2
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 0,
+      "nome": "João",
+      "sobrenome": "Alves",
+      "email": "pedropaulocca@gmail.com",
+      "senha": "1234",
+      "cpf": "123456789",
+      "cep": "38.400-902,",
+      "rua": "Av. João Naves de Ávila, nº 2121",
+      "cidade": "Uberlândia"
+    },
+    {
+      "id": 1,
+      "nome": "Mairon",
+      "sobrenome": "Marks",
+      "email": "mairon@gmail.com",
+      "senha": "1234",
+      "cpf": "123456789",
+      "cep": "38.400-902,",
+      "rua": "Av. João Naves de Ávila, nº 2121",
+      "cidade": "São Vicente"
+    }
+  ],
+  "ordens": [
+    {
+      "id_cliente": "",
+      "id_funcionario": "",
+      "tipo": "7",
+      "desc": "testando",
+      "data": "2022-08-17T20:16:30.935642+00:00",
+      "id": 1
+    },
+    {
+      "id_cliente": "",
+      "id_funcionario": "",
+      "tipo": "",
+      "desc": "",
+      "data": "",
+      "id": 2
+    },
+    {
+      "id_cliente": "",
+      "id_funcionario": "",
+      "tipo": "3",
+      "desc": "teste1",
+      "data": "2022-08-17T20:17:56.295527+00:00",
+      "id": 3
+    }
+  ]
+}
